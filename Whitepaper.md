@@ -91,7 +91,8 @@ Lex’s operations are logged on the Virtuals blockchain, making every action tr
 ### Privacy Protections
 Lex uses privacy-preserving protocols within Virtuals to keep user interactions confidential and safe, while still maintaining security.
 
-![Security and Privacy Image: Blockchain and Data Privacy](https://github.com/LEXAILAWYER/Data_Law_Firm/blob/6052ed11696c72d27a49c3b6c7b0809acc3d1962/0E852982-59CE-4458-AA85-063377A622B6.png)
+![Security and Privacy Image: Blockchain and Data Privacy](https://github.com/LEXAILAWYER/Lex-Ai-Lawyer/blob/a6711c85c9b47543c94bf8f25895ec974047cf4b/Images/0E852982-59CE-4458-AA85-063377A622B6.png)
+
 ---
 
 ## 9. Conclusion
