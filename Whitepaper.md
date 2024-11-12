@@ -93,23 +93,7 @@ Lex uses privacy-preserving protocols within Virtuals to keep user interactions 
 
 ---
 
-## 9. Roadmap
-
-- **Phase 1**: Integrate LLaMA AI Model and Deploy Lex  
-   Launch Lex with initial features like contract analysis and document verification.
-
-- **Phase 2**: Expand Legal Knowledge  
-   Train Lex with a wider variety of legal information to improve its understanding of complex cases.
-
-- **Phase 3**: Enable Community Voting and SubDAO  
-   Launch a voting system for token holders to decide on Lex’s updates and features.
-
-- **Phase 4**: Make Lex Accessible Globally  
-   Scale Lex for wider use, including support for multiple languages.
-
----
-
-## 10. Conclusion
+## 9. Conclusion
 
 Lex, powered by the LLaMA model and the Virtuals Protocol, offers a new approach to legal support by combining advanced AI with the security and transparency of blockchain. By allowing users to co-own and participate in Lex’s development, Lex provides a trustworthy, community-driven legal service that benefits everyone.
 
