@@ -24,6 +24,8 @@ Lex aims to make legal services more accessible and fair by using co-owned AI. T
 ### Using the LLaMA Model
 Lex is built on a powerful AI model called LLaMA, which is great at understanding and generating natural language. This means Lex can understand complex legal questions and provide accurate answers.
 
+![LLaMA Model Image: AI Learning Process](https://github.com/LEXAILAWYER/Lex-Ai-Lawyer/blob/a6711c85c9b47543c94bf8f25895ec974047cf4b/Images/D214885D-DD90-43C7-A7E4-D85E9845B1F1.png)
+
 ### Training Lex
 1. **Collecting Legal Knowledge**: Lex is trained on a wide range of legal information, including laws, cases, and regulations.
 2. **Training Phases**:  
